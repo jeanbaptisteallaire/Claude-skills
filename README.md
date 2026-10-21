@@ -8,7 +8,7 @@ Personal skills created with Claude Code. This repo lives at `~/.claude/skills/`
 
 ## Install on a new Mac
 ```bash
-git clone https://github.com/jeanbaptisteallaire/claude-skills.git ~/.claude/skills
+git clone https://github.com/jeanbaptisteallaire/my-claude-skills.git ~/.claude/skills
 ```
 (If `~/.claude/skills` already exists, clone elsewhere and copy the skill folders in.)
 
